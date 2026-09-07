@@ -1,0 +1,36 @@
+# Core
+python-dotenv==1.0.1
+pydantic==2.8.2
+pydantic-settings==2.3.4
+typing-extensions==4.12.2
+
+
+# Data / document parsing
+beautifulsoup4==4.12.3
+markdown==3.6
+python-frontmatter==1.1.0
+PyMuPDF==1.28.2
+pypdf==4.2.0
+python-docx
+lxml==5.2.2
+
+
+# Utilities
+requests==2.32.2
+pandas==3.0.5
+tqdm==4.66.0
+regex==2024.5.15
+
+
+langchain
+langchain-core 
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-experimental
+unstructured
+transformers
+huggingface-hub 
+langchain-text-splitter
+numpy 
+scikit-learn
